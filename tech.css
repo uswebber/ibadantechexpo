@@ -1,0 +1,287 @@
+*{
+    
+}
+.body{
+    background-color: rgb(245,245,245);
+}
+.nav {
+    margin-left: 130vh;
+    margin-top: -6vh;
+}
+nav a{
+    color: #224093;
+    
+}
+.nav:hover{
+    text-decoration: underline;
+    color: #ffcd55 ;
+}
+.all{
+    background-color: #f5f5f5;
+    position: fixed;
+    top: 0;
+    height:  15vh;
+    border: 2px solid #f5f5f5;
+}
+ a{
+    padding-left: 6vh;
+    text-decoration: none;
+    color: blue;
+    font-size: 3vh;
+  
+}
+div img{
+    width: 13vh;
+    margin-top: 3vh;
+    margin-left: 14vh;
+}
+button{
+background-color: #fdb915;
+
+  font-size: 2vh;
+    width: 155px;
+    height: 8vh;
+    text-align: center;
+    border-radius: vh;
+    margin-left: 2vh;
+    border: none;
+}
+button a{
+    color: black;
+}
+.tech{
+    width: 180vh;
+    margin-top: 10vh;
+}
+.hr{
+    width: 20vh;
+    border: -1px solid;
+    margin-left: 42vh;
+    margin-top: -3vh;
+
+}
+.EDITION{
+   margin-left: 20vh; 
+   color: blue;
+ 
+}
+.width{
+    width: 20vh;
+    border: -1px solid;
+    margin-top: -6vh;
+}
+.sep{
+    margin-left: 120vh;
+    margin-top: -3vh;
+    color: blue;
+}
+
+.star{
+    width: 60px;
+    height: 60px;
+    border: 2px solid green;
+    border-radius: 60px;
+    background-image: url(image/star-06b2c062.svg);
+    background-repeat: no-repeat;
+    margin-left: 75vh;
+    margin-top: -6vh;
+    animation: name duration timing-function delay iteration-count direction fill-mode;
+    animation: rotating_star 5s infinite linear;
+}
+
+@keyframes rotating_star {
+   
+    100%{
+        transform: rotate(360deg);
+    }
+}
+.buy{
+    width: 60vh;
+   border: none;
+   color: blue;
+   border-radius: ;
+}
+.SPONSOR{
+    margin-left: 20vh;
+   
+}
+.SPONSOR button {
+    margin-top: 5vh;
+}
+.BECOME
+{
+    width: 60vh;
+    border: none;
+    color: blue;
+    border-radius: ;
+    background-color: white;
+    border: 2px solid blue;
+}
+.cen{
+  margin-left: 100vh;
+}
+.Venue{
+    margin-top: 6vh;
+    margin-left: 50vh;
+    height: 20vh;
+    background-color: #8a8272;
+}
+.line{
+    width: 85vh;
+    margin-left: 2vh;
+    border: 1px solid orange;
+}
+.tit{
+    width: 100vh;
+    margin-left: -1vh;
+}
+.Welcome{
+    margin-left: 10vh;
+    color: blue;
+    font-weight: bold;
+    font-family:Arial, Helvetica, sans-serif;
+   
+}
+.svg{
+    margin-left: 100vh;
+    width: 90vh;
+    height: 60vh;
+    margin-top: -50vh;
+}
+.Ibadan{
+    margin-left: 10vh;
+}
+.area{
+    margin-left: 10vh;
+    font-size: 7vh;
+    color: blue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.lane{
+    width: 178vh;
+    border: 1px solid orange;
+}
+.png{
+    background-image: url(image/Venue-1-38edfbf0.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-left: 17vh;
+    width: 200vh;
+    height: 60vh;
+ 
+}
+.center{
+    margin-top: 20vh;
+    color: white;
+    font-size: 30px;
+    font-weight: bolder;
+}
+.speak{
+    margin-top: 15vh;
+}
+.view{
+margin-left: 140vh;
+margin-top: -4vh;
+color: blue;
+}
+.Speakers{
+    font-size: 5vh;
+    color: blue;
+    margin-left: 2vh;
+    font-weight: 3000;
+}
+.blue{
+    margin-left: 3vh;
+    border: 1px solid;
+    color: yellow;
+    width: 160vh;
+}
+span p {
+    color: blue;
+}
+.hum{
+    margin-top: -1vh;
+    margin-left: 12vh;
+}
+span b{
+    color: blue;
+   font-size: 5vh;
+}
+.Director{
+    display: flex;
+    padding-left: 8vh;
+    justify-content: space-evenly;
+}
+.Federal{
+    margin-top: -4vh;
+    margin-left: 7vh;
+}
+p{
+    font-size: 3vh;
+}
+.Tickets{
+   font-size: 15vh;
+    color: blue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.game{
+    width: 180vh;
+    margin-left: 5vh;
+    border: 1px solid #fdb915;
+}
+.head{
+    width: 1px;
+    height: 100vh;
+    margin-left: 10vh;
+}
+.Secure{
+    margin-top: 20vh;
+    margin-left: 5vh;
+}
+.ticket{
+    margin: 15vh  40vh;
+    color: #224093;
+}
+.live{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.networking{
+    background-color:whitesmoke;
+    height: 75vh;
+    border: 5px solid whitesmoke;
+    border-radius: 5vh;
+    padding: 0 2vh;
+   
+   
+  
+}
+.ELO{
+    background-color: rgb(245,245,245);
+    transition: ease-in-out;
+}
+.ELO:hover{
+    background-color: rgb(34,64,147);
+    color: white;
+}
+.main{
+    font-size: 2px;
+}
+.Get{
+    margin-left: 25vh;
+    border-radius: 3vh;
+    height: 9vh;
+    width: 16vh;
+}
+.networking:hover{
+    background-color: green;
+}
+.ket{
+    margin-left: 25vh;
+    border-radius: 2vh;
+    height: 5vh;
+    width: 22vh;   
+    background-color: blue;
+    color: white;
+}
